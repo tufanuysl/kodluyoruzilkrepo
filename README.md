@@ -3,7 +3,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![github](https://github.com/tufanuysl/kodluyoruzilkrepo/blob/main/resim_2022-12-12_161954073.png?raw=true)
 
-##Installation
+## Installation
 
 Öncelikle projeyi klonlayın (https://github.com/tufanuysl/kodluyoruzilkrepo.git)
 
@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 git clone https://github.com/tufanuysl/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
