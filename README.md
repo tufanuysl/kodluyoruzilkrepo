@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 git clone https://github.com/tufanuysl/kodluyoruzilkrepo.git
 
-## Usage
+```Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
